@@ -1,7 +1,7 @@
 name: Seth Gilpin
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 1
+typography_spectrum: 0.43408
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fefefe'
-    - '#cf3225'
-    - '#f0cf33'
-    - '#808080'
-  brandStrength: 0.3125
-  lightness: 0.0625
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+    - '#ffffff'
+    - '#ff6942'
+    - '#5e5858'
+    - '#ccbcae'
+    - '#ffc2b2'
+  brandStrength: 0
+  lightness: 0.375
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
