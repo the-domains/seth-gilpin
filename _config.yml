@@ -1,7 +1,7 @@
 name: Seth Gilpin
 favicon: null
-layout_spectrum: 0.10039506503380835
-typography_spectrum: 0.39911642810329795
+layout_spectrum: 0
+typography_spectrum: 0.38949
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.944679967360571
-  lightness: 0.09599238727241755
-  saturation: 0.06543049425818026
-  rhythmicContrast: 0.6234459523111582
+  brandStrength: 0.8125
+  lightness: 0.0625
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
