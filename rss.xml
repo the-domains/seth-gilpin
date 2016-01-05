@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Seth Gilpin]]></title>
+        <description><![CDATA[Seth Gilpin]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 16:44:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Effective Digital Marketing in 2016]]></title>
+            <description><![CDATA[<article><h1>Effective Digital Marketing in 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe0d205641d45c440dde2935963d308ab8adabbe.jpg"></article>]]></description>
+            <link>undefinedeffective-digital-marketing-in-2016/index.html</link>
+            <guid isPermaLink="false">1a534370-15cf-466f-bb6d-829c70e86b71</guid>
+            <pubDate>Tue, 05 Jan 2016 16:44:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
